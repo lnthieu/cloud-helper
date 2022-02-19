@@ -1,6 +1,6 @@
 {
-  "name": "cloud-helper",
-  "version": "0.0.0",
+  "name": "@cloud-helper/file-helper",
+  "version": "0.0.1",
   "description": "",
   "main": "src/index.ts",
   "scripts": {
