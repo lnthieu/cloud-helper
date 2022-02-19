@@ -1,1 +1,1 @@
-export * from './lib/file-helper';
+export {FileHelper} from './lib/file-helper';
